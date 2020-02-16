@@ -5,7 +5,7 @@
       class="relative h-screen w-screen bg-cover bg-center shadow-2xl"
       :style="`background-image:url(${bgImage})`"
     >
-      <div class="h-screen w-screen bg-red-800 opacity-75" />
+      <div class="h-screen w-screen bg-teal-700 opacity-75" />
       <div
         class="absolute h-screen w-screen top-0 flex flex-col justify-center items-center"
       >

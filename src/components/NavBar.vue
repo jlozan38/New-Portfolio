@@ -1,6 +1,6 @@
 <template>
     <nav class="nav w-screen z-20 text-white" 
-    :class="isHome ? '' : 'shadow-2xl bg-red-800'">
+    :class="isHome ? '' : 'shadow-2xl bg-teal-700'">
         <div class="left">
             <span class="font-light text-3xl">
                 My
