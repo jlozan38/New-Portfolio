@@ -3,6 +3,7 @@ import todob from "../assets/projects/05.png"
 import todot from "../assets/projects/04.png"
 import inventory from "../assets/projects/03.png"
 import vuetodo from "../assets/projects/02.png"
+import mynotes from "../assets/projects/06.png"
 
 const projects = [
     {
@@ -39,6 +40,13 @@ const projects = [
         image: vuetodo,
         hashtags: ["todo", "vuejs", "javascript", "javascript"],
         url: "https://vuetodo.jlozan38.xyz/"
+    },
+    {
+        name: "Look at my Notes",
+        description: "A Vue.js application with Vuex, implementing a CRUD Notes app",
+        image: mynotes,
+        hashtags: ["crud", "vuejs", "javascript", "tailwind", "vuex", "vue-router"],
+        url: "https://mynotes.jlozan38.xyz/"
     }
 ]
 
