@@ -4,6 +4,7 @@ import todot from "../assets/projects/04.png"
 import inventory from "../assets/projects/03.png"
 import vuetodo from "../assets/projects/02.png"
 import mynotes from "../assets/projects/06.png"
+import login from "../assets/projects/07.png"
 
 const projects = [
     {
@@ -47,7 +48,15 @@ const projects = [
         image: mynotes,
         hashtags: ["crud", "vuejs", "javascript", "tailwind", "vuex", "vue-router"],
         url: "https://mynotes.jlozan38.xyz/"
-    }
+    },
+    {
+        name: 'The Login',
+        description:'A Vue.js Application with Vuex, implementing a Login with Firebase in Email/Password and Google.',
+        image: login,
+        hashtags: ['firebase','auth','vuejs','javascript','tailwind','vuex','vue-router'
+        ],
+        url: 'https://thelogin.jlozan38.xyz/'
+    },
 ]
 
 export default projects
