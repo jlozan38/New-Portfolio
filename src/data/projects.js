@@ -5,6 +5,7 @@ import inventory from "../assets/projects/03.png"
 import vuetodo from "../assets/projects/02.png"
 import mynotes from "../assets/projects/06.png"
 import login from "../assets/projects/07.png"
+import superheros from "../assets/projects/08.png"
 
 const projects = [
     {
@@ -57,6 +58,14 @@ const projects = [
         ],
         url: 'https://thelogin.jlozan38.xyz/'
     },
+    {
+        name: 'Superheros',
+        description: 'A Vue.js Application with Vuex, implementing a superhero API',
+        image: superheros,
+        hashtags: ['firebase', 'auth', 'vuejs', 'javascript', 'tailwind', 'vuex', 'vue-router'
+        ],
+        url: 'https://superheros.jlozan38.xyz/'  
+    }
 ]
 
 export default projects
