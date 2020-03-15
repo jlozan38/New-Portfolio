@@ -6,6 +6,7 @@ import vuetodo from "../assets/projects/02.png"
 import mynotes from "../assets/projects/06.png"
 import login from "../assets/projects/07.png"
 import superheros from "../assets/projects/08.png"
+import movies from "../assets/projects/09.png"
 
 const projects = [
     {
@@ -65,6 +66,14 @@ const projects = [
         hashtags: ['firebase', 'auth', 'vuejs', 'javascript', 'tailwind', 'vuex', 'vue-router'
         ],
         url: 'https://superheros.jlozan38.xyz/'  
+    },
+    {
+        name: 'Movies Database',
+        description: 'A vuetify application, implementing a superhero API',
+        image: movies,
+        hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'tailwind', 'vuex', 'vue-router'
+        ],
+        url: 'https://moviesdb.jlozan38.xyz/'
     }
 ]
 
