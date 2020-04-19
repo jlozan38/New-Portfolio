@@ -75,7 +75,7 @@ const projects = [
         hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'tailwind', 'vuex', 'vue-router'
         ],
         url: 'https://moviesdb.jlozan38.xyz/'
-    }
+    },
         {
         name: 'Chat Room',
         description: 'A veutify application of a chat room using firebase console',
