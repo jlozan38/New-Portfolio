@@ -8,6 +8,7 @@ import login from "../assets/projects/07.png"
 import superheros from "../assets/projects/08.png"
 import movies from "../assets/projects/09.png"
 import chat from "../assets/projects/10.png"
+import store from "../assets/projects/11.png"
 
 const projects = [
     {
@@ -83,6 +84,14 @@ const projects = [
         hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'firebase', 'vuex', 'vue-router'
         ],
         url: 'https://chat.jlozan38.xyz/'
+    },
+    {
+        name: 'My Store',
+        description: 'A veutify application of a store front using firebase console',
+        image: chat,
+        hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'firebase', 'vuex', 'vue-router'
+        ],
+        url: 'https://mystore.jlozan38.xyz/'
     },
 ]
 
