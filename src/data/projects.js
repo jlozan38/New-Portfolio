@@ -88,7 +88,7 @@ const projects = [
     {
         name: 'My Store',
         description: 'A veutify application of a store front using firebase console',
-        image: chat,
+        image: store,
         hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'firebase', 'vuex', 'vue-router'
         ],
         url: 'https://mystore.jlozan38.xyz/'
