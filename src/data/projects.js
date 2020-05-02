@@ -9,6 +9,7 @@ import superheros from "../assets/projects/08.png"
 import movies from "../assets/projects/09.png"
 import chat from "../assets/projects/10.png"
 import store from "../assets/projects/11.png"
+import pong from "../assets/projects/12.png"
 
 const projects = [
     {
@@ -92,6 +93,14 @@ const projects = [
         hashtags: ['firebase', 'auth', 'vuetify', 'javascript', 'firebase', 'vuex', 'vue-router'
         ],
         url: 'https://mystore.jlozan38.xyz/'
+    },
+    {
+        name: 'Pong Game',
+        description: 'A veutify application of a simple pong game',
+        image: pong,
+        hashtags: ['vuetify', 'javascript', 'vuex', 'vue-router'
+        ],
+        url: 'https://pong.jlozan38.xyz/'
     },
 ]
 
